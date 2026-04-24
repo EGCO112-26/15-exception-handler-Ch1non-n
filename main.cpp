@@ -76,7 +76,7 @@ int main(){
 	
 		catch(exception &e){
 			cout<< e.what() <<endl;
-			a = 1;
+			
 		}
 
 	}while(a);
